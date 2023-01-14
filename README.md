@@ -1,5 +1,7 @@
 ### Project Title - Deploy a high-availability web app using CloudFormation
 
+Kindly check Diagram.pdf for the diagram requirment
+
 ## Scripts
 
 ```bash
